@@ -1,0 +1,24 @@
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\bin\Debug\DailyTaikingsApp.exe.config
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\bin\Debug\DailyTaikingsApp.exe
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\bin\Debug\DailyTaikingsApp.pdb
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.csprojResolveAssemblyReference.cache
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.Form1.resources
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.Properties.Resources.resources
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.csproj.GenerateResource.Cache
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.exe
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.pdb
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.TakingManager.resources
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.AddingAPurchase.resources
+C:\Users\Dimon\Desktop\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.TakingModification.resources
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\bin\Debug\DailyTaikingsApp.exe.config
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.exe
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.pdb
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\bin\Debug\DailyTaikingsApp.exe
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\bin\Debug\DailyTaikingsApp.pdb
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.csprojResolveAssemblyReference.cache
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.AddingAPurchase.resources
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.Form1.resources
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.Properties.Resources.resources
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.TakingManager.resources
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.TakingModification.resources
+C:\Users\Dimon\Desktop\DailyTaking (discontinued)\DailyTaikingsApp\DailyTaikingsApp\obj\Debug\DailyTaikingsApp.csproj.GenerateResource.Cache
